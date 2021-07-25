@@ -1,0 +1,18 @@
+.navigation{
+    background-color: lightgrey;
+}
+.nbar{
+    display: inline;
+    
+}
+
+.nbar >li{
+    margin: 10px;
+}
+
+
+#bottomc >p{
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Anton', sans-serif;
+}
